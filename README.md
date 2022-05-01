@@ -1,5 +1,5 @@
 - Hi, I’m Sebastian Brindus
-- I’m interested in learning programming and performing a professional conversion to programming / software development, this year.
+- I’m interested in learning programming and trying to achieve a professional conversion to programming / software development, this year.
 - I’m currently learning Java and Git/GitHub
 - I’m looking to develop my porfolio which will hopefully get me my first software development job!
 - How to reach me: e-mail: sebibrindus@gmail.com
